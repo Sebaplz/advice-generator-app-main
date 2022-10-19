@@ -46,7 +46,6 @@ function App() {
               <source
                 srcset="images/pattern-divider-mobile.svg"
                 media="(max-width: 375px)"
-                alt="Imagen divider mobile"
               />
               <img
                 src="images/pattern-divider-desktop.svg"
